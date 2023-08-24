@@ -33,3 +33,9 @@ Explicação:
 - Quarto elemento: 3 * 5 (*p) = 15.
 - Quinto elemento: 5 (**&p) + 4 = 9. 
 ---------------------------
+Questão 3:
+
+Resposta: As únicas atribuições ilegais, foram as 1ª, 4ª e 7ª atribuições. O 1ª e 7ª pela tentativa de atribuição de inteiro para ponteiro de inteiro. O 4ª graças a utilização dos parênteses.
+Explicação:
+- 1
+---------------------------
