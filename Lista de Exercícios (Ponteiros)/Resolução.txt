@@ -22,8 +22,14 @@ Explicação:
 Resposta: 10.
 Explicação:
 - A mesma explicação referente a segunda e terceira expressão também se aplica aqui. Portanto a operação é o mesmo que: 3 - 3 / 5 + 7. Se reparar bem 3/5, apesar de resultar em 0.6 retorna 0, já que estamos operando com números inteiros. Resultando em: 3 - 0 + 7 = 10. 
-
 ---------------------------
+Questão 2:
 
-
-
+Resposta: 4094 7 5 15 9
+Explicação:
+- Primeiro elemento: Foi dito no enunciado da questão que o endereço de 'i' seria 4094.
+- Segundo elemento: 5 (*p) + 2 = 7.
+- Terceiro elemento: A expressão representa um ponteiro para o ponteiro no endereço de p. Portanto lhe printar com asterisco antes também retorna o valor de p (5).
+- Quarto elemento: 3 * 5 (*p) = 15.
+- Quinto elemento: 5 (**&p) + 4 = 9. 
+---------------------------
