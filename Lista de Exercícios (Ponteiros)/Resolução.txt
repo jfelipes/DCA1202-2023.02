@@ -1,0 +1,29 @@
+Nome: JHONNATHA FELIPE SOLSONA DE SOUZA
+Matrícula: 20200069905
+
+Questão 1:
+
+p == &i;
+Resposta:  1.
+Explicação:
+- O valor da expressão é referente a condição da igualidade, no caso ela é satisfeita, uma vez que o "endereço" '&i' havia sido atribuído ao ponteiro 'p' anteriormente (linha 09).
+
+*p - *q;
+Resposta: -2.
+Explicação:
+- Quando utilizamos asterisco antes de um ponteiro que foi declarado, obtemos o valor presente no endereço que lhe foi atribuído anteriormente (linha 09). Portanto a operação é: *p (3) - *q (5) = -2 (resultado).
+
+**&p;   
+Resposta:  3.
+Explicação:
+- A expressão representa um ponteiro para o ponteiro no endereço de p. Portanto lhe printar com asterisco antes também retorna o valor de p (3).
+
+3 - *p/(*q) + 7;
+Resposta: 10.
+Explicação:
+- A mesma explicação referente a segunda e terceira expressão também se aplica aqui. Portanto a operação é o mesmo que: 3 - 3 / 5 + 7. Se reparar bem 3/5, apesar de resultar em 0.6 retorna 0, já que estamos operando com números inteiros. Resultando em: 3 - 0 + 7 = 10. 
+
+---------------------------
+
+
+
