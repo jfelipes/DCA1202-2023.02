@@ -58,3 +58,7 @@ Explicação:
 - (m) O retorno é o elemento 1 da varíavel vetor (graças a atribuição do valor, sendo a adição do elemento 27 menos 1 endereço de memória), ou seja 45.
 - (n) O retorno foi 27, já que p5 era 45 (segundo elemento de vetor) e foi adicionado um endereço de memória para variável.
 ---------------------------
+Questão 5:
+
+Resposta: Todos resultados obtidos foram idênticos aos esperados (TeoriaxPratica).
+---------------------------
