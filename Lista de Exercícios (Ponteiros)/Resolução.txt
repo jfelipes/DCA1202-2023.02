@@ -35,7 +35,26 @@ Explicação:
 ---------------------------
 Questão 3:
 
-Resposta: As únicas atribuições ilegais, foram as 1ª, 4ª e 7ª atribuições. O 1ª e 7ª pela tentativa de atribuição de inteiro para ponteiro de inteiro. O 4ª graças a utilização dos parênteses.
+Resposta: As únicas atribuições ilegais, foram as 1ª, 4ª e 7ª atribuições. 
 Explicação:
-- 1
+- O 1ª e 7ª pela tentativa de atribuição de inteiro para ponteiro de inteiro.
+- O 4ª graças a utilização dos parênteses.
+---------------------------
+Questão 4:
+
+Resposta: Todos resultados obtidos foram idênticos aos esperados (TeoriaxPratica).
+Explicação:
+- (a) O elemento valor retornou como saída 20, graças a atribuição que foi feito ao ponteiro p1, que apontava para o endereço de valor.
+- (b) O elemento temp retornou como saída 29.0, graças a atribuição que foi feito ao ponteiro p2, que apontava para o endereço de temp.
+- (c) O elemento aux retornou P uma vez que foi realizada o "apontamento" para primeira posição (nome[0]) do ponteiro de char nome ("Ponteiro").
+- (d) O elemento aux retornou e uma vez que foi realizada o "apontamento" para quinta posição (nome[4]) do ponteiro de char nome ("Ponteiro").
+- (e) O elemento p3 retornou P, já que quando igualado ao ponteiro para char nome ("Ponteiro"), utilizou o endereço da primeira letra.
+- (f) O elemento p3 + 4 retorna e, já que quando igualado ao ponteiro p3 que era igual ao ponteiro para char nome ("Ponteiro"), utilizou o endereço da primeira letra + 4 ou seja, o quarto elemento a partir do endereço de memória 0.
+- (g) p3--, como esperado retornou t, que segue a mesma logica da questão (f), porém sendo o endereço do terceiro elemento.
+- (h) O retorno é o elemento 0 da variável vetor (graças a atribuição do valor do ponteiro p4 para variável idade), ou seja 31.
+- (i) O retorno é o elemento 1 da variável vetor (graças a atribuição do valor do ponteiro p5 para variável idade, p5 é p4 mais um endereço a diante), ou seja 45.
+- (j) O retorno é o elemento 2 da variável vetor (graças a atribuição do valor do ponteiro p4 para variável idade, p4 é p5 mais um endereço a diante), ou seja 27.
+- (l) O retorno é o elemento 0 da variável vetor (graças a atribuição do valor do ponteiro p4 para variável idade, p4 é p4 menos dois endereço para trás), ou seja 31.
+- (m) O retorno é o elemento 1 da varíavel vetor (graças a atribuição do valor, sendo a adição do elemento 27 menos 1 endereço de memória), ou seja 45.
+- (n) O retorno foi 27, já que p5 era 45 (segundo elemento de vetor) e foi adicionado um endereço de memória para variável.
 ---------------------------
