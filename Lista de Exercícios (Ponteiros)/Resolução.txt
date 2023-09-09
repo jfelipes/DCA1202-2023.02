@@ -62,3 +62,10 @@ Questão 5:
 
 Resposta: Todos resultados obtidos foram idênticos aos esperados (TeoriaxPratica).
 ---------------------------
+Questão 6:
+
+Resposta: *(pulo + 2) e pulo + 2.
+Explicação:
+- *(pulo + 2) retorna o terceiro elemento.
+- pulo + 2 retorna o endereço do terceiro elemento.
+---------------------------
