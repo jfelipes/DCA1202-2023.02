@@ -73,3 +73,7 @@ Questão 7:
 
 Resposta: As expressões válidas são: 'p = mat + 1' e 'x = (*mat)++'.
 ---------------------------
+Questão 8:
+
+Resposta: Ambos programas fazem um loop entre os números do array declarado como vet, o primeiro programa printa os valores e o segundo os endereços.
+---------------------------
