@@ -96,3 +96,7 @@ Questão 11:
 
 Resposta: As seguintes expressões foram válidas: aloha = value; coisas[5] = aloha; pf = value;.
 ---------------------------
+Questão 12:
+
+Resposta: Um ponteiro para uma função é um conceito de programação que permite armazenar o endereço de memória de uma função em uma variável. Em outras palavras, em vez de chamar uma função diretamente pelo seu nome, você pode usar um ponteiro para executar essa função. Isso pode ser útil em situações em que você deseja selecionar dinamicamente qual função deve ser executada com base em alguma condição ou critério.
+---------------------------
