@@ -78,11 +78,6 @@ Questão 8:
 Resposta: Ambos programas fazem um loop entre os números do array declarado como vet, o primeiro programa printa os valores e o segundo os endereços.
 ---------------------------
 Questão 9:
-9. Seja x um vetor de 4 elementos, declarado da forma TIPO x[4];. Suponha que depois da
-declaração, x esteja armazenado no endereço de memória 4092 (ou seja, o endereço de x[0]).
-Suponha também que na máquina seja usada uma variável do tipo char ocupa 1 byte, do tipo
-int ocupa 2 bytes, do tipo float ocupa 4 bytes e do tipo double ocupa 8 bytes. Quais serão os
-valores de x+1, x+2 e x+3 se:
 Resposta:
 ◦ x for declarado como char?
 x+1 = 4093, x+2 = 4094 e x+3 = 4095. 
@@ -92,4 +87,7 @@ x+1 = 4094, x+2 = 4096 e x+3 = 4098.
 x+1 = 4096, x+2 = 5000 e x+3 = 5002.
 ◦ x for declarado como double?
 x+1 = 5000, x+2 = 5008 e x+3 = 5012.
+---------------------------
+Questão 10:
+Resposta: As respostas obtidas foram idênticas ao que foi idealizado.
 ---------------------------
