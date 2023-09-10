@@ -69,3 +69,7 @@ Explicação:
 - *(pulo + 2) retorna o terceiro elemento.
 - pulo + 2 retorna o endereço do terceiro elemento.
 ---------------------------
+Questão 7:
+
+Resposta: As expressões válidas são: 'p = mat + 1' e 'x = (*mat)++'.
+---------------------------
