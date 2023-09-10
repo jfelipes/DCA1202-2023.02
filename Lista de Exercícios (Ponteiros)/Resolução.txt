@@ -89,5 +89,10 @@ x+1 = 4096, x+2 = 5000 e x+3 = 5002.
 x+1 = 5000, x+2 = 5008 e x+3 = 5012.
 ---------------------------
 Questão 10:
+
 Resposta: As respostas obtidas foram idênticas ao que foi idealizado.
+---------------------------
+Questão 11:
+
+Resposta: As seguintes expressões foram válidas: aloha = value; coisas[5] = aloha; pf = value;.
 ---------------------------
